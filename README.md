@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**freehelpdesk/freehelpdesk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hardware
+* CPU: **Ryzen 9 9950X3D**
+* Memory: **2 x Trident Z5 32GB 6400 (64GB)**
+* Motherboard: **ASUS ROG Crosshair X870E Hero** 
+* GPU: **NVIDIA Geforce RTX 5090 (32GB)**
+* Headphones: **Sennheiser IE 900 (2021)**
+* Microphone: **SHURE M7+**
+* DAC: **FiiO  NEWK3**
+* ADC: **Elgato Wave XLR**
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### Verification
+[url=https://valid.x86.fr/grc97j][img]https://valid.x86.fr/cache/banner/grc97j-6.png[/img][/url]
