@@ -11,4 +11,4 @@
 * ADC: **Elgato Wave XLR**
 
   ### Verification
-[url=https://valid.x86.fr/grc97j][img]https://valid.x86.fr/cache/banner/grc97j-6.png[/img][/url]
+[![CPU-Z](https://valid.x86.fr/cache/banner/grc97j-6.png)](https://valid.x86.fr/grc97j)
