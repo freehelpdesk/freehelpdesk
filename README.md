@@ -5,9 +5,9 @@
 * Memory: **2 x Trident Z5 32GB 6400 (64GB)**
 * Motherboard: **ASUS ROG Crosshair X870E Hero** 
 * GPU: **NVIDIA Geforce RTX 5090 (32GB)**
-* Headphones: **Sennheiser IE 900 (2021)**
+* Headphones: **Sennheiser IE 900 (2021)** & **Sennheiser HD660S2**
 * Microphone: **SHURE M7+**
-* DAC: **FiiO  NEWK3**
+* DAC: **FiiO  NEWK3** & **FiiO K7**
 * ADC: **Elgato Wave XLR**
 
   ### Verification
